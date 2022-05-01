@@ -1,7 +1,8 @@
 
 # Hi, I'm 8less! 👋
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eightless)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eightless&layout=compact)
+
 
 ## 🚀 About Me
 I love coding Discord Bots. My favorite language is JavaScript. Aside from bot development, I develop sites and other shit. 
