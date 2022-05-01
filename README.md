@@ -12,7 +12,7 @@ I love coding Discord Bots. My favorite language is JavaScript. Aside from bot d
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ign8less)
 
 
-## Other Common Github Profile Sections
+## Other Stuff
 👩‍💻 I'm currently working on surf+ (Discord bot for [surf](https://discord.gg/surf))
 
 🧠 I'm currently learning TypeScript
