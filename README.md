@@ -28,3 +28,5 @@ I love coding Discord Bots. My favorite language is JavaScript. Aside from bot d
 ## 🛠 Skills
 Javascript, HTML, CSS, TypeScript
 
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
