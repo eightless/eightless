@@ -1,7 +1,7 @@
 
 # Hi, I'm 8less! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=eightless&show_icons=true&theme=gotham" alt="github stats" width="45%"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=eightless&show_icons=true&theme=gotham" alt="github stats" width="100%"/>
 
 
 ## 🚀 About Me
