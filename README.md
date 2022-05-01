@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @eightless
-- 🧑‍💻 I'm currently working on Discord Bots
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning NodeJS Senior
-- 📫 Discord: 8less#0001
 
-<!---
-eightless/eightless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm 8less! 👋
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eightless&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+## 🚀 About Me
+I love coding Discord Bots. My favorite language is JavaScript. Aside from bot development, I develop sites and other shit. 
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ign8less)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on surf+ (Discord bot for [surf](https://discord.gg/surf))
+
+🧠 I'm currently learning TypeScript
+
+💬 Ask me about discord.js
+
+📫 Reach me via Discord: 8less#0001
+
+😄 Pronouns: He/Him
+
+⚡️ Fun fact - discord.py sucks
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, TypeScript
+
