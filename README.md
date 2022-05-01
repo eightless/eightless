@@ -1,7 +1,7 @@
 
 # Hi, I'm 8less! 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eightless&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eightless&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="ovi" />
 
 ## 🚀 About Me
 I love coding Discord Bots. My favorite language is JavaScript. Aside from bot development, I develop sites and other shit. 
