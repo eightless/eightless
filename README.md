@@ -1,7 +1,7 @@
 
 # Hi, I'm 8less! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=eightless&show_icons=true&theme=gotham" alt="github stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eightless&show_icons=true&theme=dark" alt="github stats" width="45%"/>
 
 
 ## 🚀 About Me
