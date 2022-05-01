@@ -9,7 +9,7 @@ I love coding Discord Bots. My favorite language is JavaScript. Aside from bot d
 
 
 ## 🔗 Links
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ign8less)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@iam8less)
 
 
 ## 📚 Other Stuff
