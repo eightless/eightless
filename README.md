@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I love coding Discord Bots. My favorite language is JavaScript. Aside from bot development, I develop sites and other shit. 
+I love coding Discord Bots. My favorite language is TypeScript. Aside from bot development, I develop sites and etc. 
 
 
 ## 🔗 Links
@@ -13,9 +13,9 @@ I love coding Discord Bots. My favorite language is JavaScript. Aside from bot d
 
 
 ## 📚 Other Stuff
-👩‍💻 I'm currently working on surf+ (Discord bot for [surf](https://discord.gg/surf))
+👩‍💻 I'm currently working on [Mango](https://github.com/yeardevelopment/mango)
 
-🧠 I'm currently learning TypeScript
+🧠 I'm currently learning Swift
 
 💬 Ask me about discord.js
 
@@ -27,7 +27,7 @@ I love coding Discord Bots. My favorite language is JavaScript. Aside from bot d
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, TypeScript
+TypeScript, Javascript, HTML, CSS
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
